@@ -1,2 +1,2 @@
 # NumericalAnalysis
-code for assignment of Numerical AnalysisCourse in 2017 in ZJU
+code for assignment of Numerical Analysis Course in 2017 in ZJU
